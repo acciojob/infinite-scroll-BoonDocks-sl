@@ -1,6 +1,4 @@
 //your code here!
-
-//your code here!
 const list = document.getElementById('infi-list');
 
 list.addEventListener('scroll', function() {
